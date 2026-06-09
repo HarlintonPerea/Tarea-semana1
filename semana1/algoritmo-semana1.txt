@@ -1,0 +1,25 @@
+Algoritmo para compartir información confiable en internet
+
+Paso 1: Leer completo el contenido antes de reaccionar o compartir,
+        sin quedarse solo con el título o la imagen.
+
+Paso 2: Identificar quién es el autor o medio que publicó la información
+        y verificar si tiene credibilidad reconocida.
+
+Paso 3: Buscar la misma noticia en al menos otra fuente independiente
+        para confirmar que los datos coinciden.
+
+Paso 4: Revisar la fecha de publicación para asegurarse de que la
+        información es actual y no está siendo difundida fuera de contexto.
+
+Paso 5: Evaluar el tono del mensaje: si usa lenguaje exagerado, alarmista
+        o apela solo a emociones, es una señal de alerta.
+
+Paso 6: Consultar un sitio de verificación de hechos como Colombia Check
+        o Google Fact Check si hay dudas sobre la veracidad del contenido.
+
+Paso 7: Si la información pasó todos los pasos anteriores, compartirla
+        indicando la fuente original para que otros puedan verificarla también.
+
+Paso 8: Si no se pudo verificar con certeza, abstenerse de compartir,
+        ya que no compartir también es un acto de responsabilidad digital.

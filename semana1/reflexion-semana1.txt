@@ -1,0 +1,16 @@
+El uso responsable de la información en internet, la participación ciudadana y la
+organización técnica del trabajo con herramientas como Git están más relacionados
+de lo que parecen a primera vista. Los tres exigen orden, criterio y responsabilidad.
+
+Cuando un ciudadano digital verifica la información antes de compartirla, está
+aplicando un pensamiento ordenado muy similar al que usa un programador cuando
+estructura un algoritmo: primero analiza, luego decide, y finalmente actúa con
+fundamento. Del mismo modo, Git nos enseña que cada cambio debe registrarse con
+un propósito claro, igual que cada publicación en internet debería hacerse con
+intención consciente y verificada.
+
+Esta relación me parece especialmente importante en contextos como el nuestro,
+donde la desinformación puede afectar comunidades enteras. Ser riguroso con la
+información que consumimos y compartimos es tan fundamental como ser riguroso
+con el código que escribimos o con los archivos que organizamos en un repositorio.
+En los tres casos, la responsabilidad individual impacta en el colectivo.
